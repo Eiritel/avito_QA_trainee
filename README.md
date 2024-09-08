@@ -1,0 +1,1 @@
+# avito_QA_trainee
